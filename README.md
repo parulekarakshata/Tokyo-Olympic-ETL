@@ -1,4 +1,4 @@
-#Olympic Insights Hub: End-to-End Data Orchestration and Visualization
+# Olympic Insights Hub: End-to-End Data Orchestration and Visualization
 
 The architecture of the project consists of the following components:
 - **Azure Databricks:** Used for data processing, transformation, and analysis.
