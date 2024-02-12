@@ -12,8 +12,7 @@ sum(Bronze) TotalBronze
 from medals
 group by Team_Country;
 
--- calculate average number of
- entries by gender for each discipline
+-- calculate average number of entries by gender for each discipline
 select Discipline,
 avg(Female) AvgFemale, 
 avg(Male) AvgMale
